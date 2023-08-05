@@ -1,26 +1,17 @@
 {
-  "name": "react-native-share",
+  "name": "react-native-theme-component",
   "description": "Social share, sending simple data to other apps.",
   "version": "9.2.3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/react-native-share.git"
-  },
-  "bugs": {
-    "url": "https://github.com/react-native-community/react-native-share/issues"
+    "url": "git+https://github.com/hananwaqar/react-native-theme-component.git"
   },
   "main": "lib/commonjs/index.js",
   "react-native": "src/index.tsx",
-  "module": "lib/module/index.js",
-  "types": "lib/typescript/src/index.d.ts",
   "files": [
     "src",
     "android",
-    "ios",
-    "RNShare.podspec",
-    "!**/__tests__",
-    "!**/__fixtures__",
-    "!**/__mocks__"
+    "ios"
   ],
   "devDependencies": {
     "@babel/core": "^7.12.9",
